@@ -1,0 +1,4 @@
+(augmented reality) https://www.nature.com/articles/s41377-021-00658-8
+(Vuforia) https://www.publishoa.com/index.php/journal/article/view/382
+(3d object recognition) https://www.sciencedirect.com/science/article/pii/S0141938221000639
+(Object detection) https://www.sciencedirect.com/science/article/abs/pii/S1051200422001312
