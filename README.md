@@ -20,8 +20,8 @@ Os objetivos específicos são:
 
 - [Uma proposta de migração de sistemas legados do governo para a nuvem](https://bdtd.ibict.br/vufind/Record/UNB_27af1d67c2be4ee4cfc6edeed4315abb)
 - [Strategies to mitigate anti-patterns in microservices before migrating from a monolithic system to microservices](https://bdtd.ibict.br/vufind/Record/UNIOESTE-1_220f9799b3f5ae99b7cb810a2878aa12)
-- [TODO: Buscar novamente](https://bdtd.ibict.br/vufind/Record/UFCG_82f6785349d5008b614f217bce3adca6)
-- [TODO: Buscar em vpn](https://onlinelibrary-wiley.ez71.periodicos.capes.gov.br/doi/full/10.1002/spe.2956)
+- [Uma abordagem para adaptação de clientes do Java Collections Framework baseada em técnicas de migração de APIs.](http://dspace.sti.ufcg.edu.br:8080/jspui/handle/riufcg/392)
+- [Migrating production monolithic systems to microservices using aspect oriented programming](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2956)
 
 ## Requisitos
 
