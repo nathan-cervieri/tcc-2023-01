@@ -1,0 +1,8 @@
+
+- Revisão bibligráfica do c#
+O que é
+	Microsoft (2023) define C# como "uma linguagem de programação moderna, orientada a objetos, type-safe e orientada a componente", o que significa que o desenvolvedor tem total controle sobre o domínio da programação, e tendo habilidade de reutilizar componentes sem se preocupar com erros que podem ser causados por falta de controle de tipagem de objeto.
+Para que serve
+	C# é uma linguagem de programação que pode ser utilizada para desenvolvimento de aplicações para desktop Windows, Linux e macOS, assim como desenvolvimento de jogos e aplicativos, mas o mais relevante para este trabalho é a possibilidade de utilização para serviços de processamento de requisições e sua funcionalidade como serviço de funcionamento contínuo.
+Por que utilizar
+	A linguagem é tem uma grande quantidade de ferramentas funcionalidades que auxiliam na criação de um sistema mais consistente e menos propenso a erros, como a orientação de objeto e funcionalidades de análise de código, além de proporcionar um ambiente de desenvolvimento completo na forma do Visual Studio que encapsula tudo necessário para o desenvolvimento de um servidor funcional. O website da Microsoft também contém uma documentação extensiva que provém guia e exemplos de uso da linguagem.
